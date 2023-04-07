@@ -1,0 +1,131 @@
+.img {
+  height: 24px;
+  width: 74px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  padding-top: 6px;
+}
+
+.navbar-items {
+  display: flex;
+  margin-left: 700px;
+  margin-right: 718px;
+  padding-top: 7px;
+}
+
+.title {
+  color: #d93025;
+  font-size: 20px;
+  margin: 25px 35px;
+  padding-top: 15px;
+}
+.heading {
+  margin-left: 10px;
+  font-family: arial, sans-serif;
+}
+
+.border {
+  border-bottom: 1px solid #ebebeb;
+}
+
+.main-form {
+  margin-top: 45px;
+  margin-left: 20px;
+
+  width: 100%;
+  clear: both;
+  font-family: arial, sans-serif;
+}
+.labels {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  padding-top: 1.5%;
+  justify-content: left;
+}
+.name {
+  display: flex;
+  font-family: arial, sans-serif;
+  flex-direction: column;
+  justify-content: center;
+  width: 200px;
+  color: #222;
+  font-family: arial, sans-serif;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+
+  border-radius: 1px;
+  border: 1px solid #d9d9d9;
+  border-top: 1px solid #c0c0c0;
+  font-size: 13px;
+  height: 25px;
+  width: 500px;
+  margin-left: 6%;
+  padding-right: 16px;
+}
+
+.gap {
+  padding-top: 5px;
+  margin-left: 50px;
+  color: #555;
+  font-family: monospace;
+  font-size: 11px;
+}
+
+.h1 {
+  margin-left: 570px;
+  color: #777;
+}
+.s-button {
+  display: flex;
+  display: inline-block;
+  height: 25px;
+  width: 500px;
+  vertical-align: middle;
+
+  margin-left: 14.4%;
+  padding-right: 16px;
+  flex-direction: row;
+  padding-top: 12px;
+}
+
+.button {
+  box-shadow: none;
+  background-color: #4d90fe;
+  border-color: #8ab4f8;
+  border: 1px solid #3079ed;
+  background-image: -webkit-linear-gradient(top, #4d90fe, #4787ed);
+  margin-left: 397.5px;
+  height: 28px;
+  width: 124px;
+  color: #fff;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+a:active {
+  color: black;
+  text-decoration: none;
+}
